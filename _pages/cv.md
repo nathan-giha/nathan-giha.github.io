@@ -10,7 +10,7 @@ redirect_from:
  <iframe src="/files/gihaCV.pdf" width="640" height="480"></iframe>
 
 {% include base_path %}
-
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -58,4 +58,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
