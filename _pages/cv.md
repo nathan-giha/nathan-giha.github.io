@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
- <iframe src="/files/gihaCV.pdf" width="1280" height="960"></iframe>
+ <iframe src="/files/gihaCV.pdf" width="960" height="720"></iframe>
 
 {% include base_path %}
 <!--
