@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at the University of Michigan interested in nuclear fission, instrumentation, and machine learning. I am pursuing a PhD in Nuclear Engineering & Radiological Sciences, funded by an NSF Graduate Research Fellowship. You can find my full CV [here](https://nathangiha.info/cv/) or view a short summary below.
+I'm a graduate student at the University of Michigan interested in nuclear fission, instrumentation, and machine learning. I am pursuing a PhD in Nuclear Engineering & Radiological Sciences, funded by an NSF Graduate Research Fellowship. You can find my full CV [here](https://nathangiha.info/cv/) or view a short summary at the bottom of this page.
 
-I went to the University of Michigan for undergrad as well, earning my B.S.E. in Nuclear Engineering & Radiological Sciences in 2019. My research career began in the summer of 2016 when I designed readout electronics for a handheld neutron and gamma-ray imaging system for nuclear safeguards. I continued with this project all throughout undergrad, developing better electronics and eventually building, simulating, and performing experiments with my own little imaging system. I did similar work during the first year or so of my Ph.D, then the unexpected downtime that COVID brought in March of 2020 gave me some time to reflect on my goals. I ultimately turned my gaze toward physics and started picking up some books.
-
-Outside of science, I like to snowboard, climb, lift weights, cook, and play my electric guitar. I'm also a big UM sports fan. Go Blue!
+I began my journey in research in 2016. I joined a lab at the University and designed readout electronics for silicon photomultiplier arrays, to be used in compact radiation imaging systems for nuclear safeguards. I ultimately stayed in the same group to pursue my PhD in 2019, months before COVID shut down our laboratory and all research was put on hold. After reconsidering my goals during this down time (and finishing a course on quantum mechanics that I chose on a whim), I turned my gaze toward physics and started picking up some books. My path to physics is non-traditional and has been difficult at times, but rewarding.
 
 
-# Education
----
-## University of Michigan
-2019 - Present PhD in Nuclear Engineering & Radiological Sciences
-2019 - 2022    MS in Nuclear Engineering & Radiological Sciences
-2015 - 2019    BS in Nuclear Engineering & Radiological Sciences
+> If every individual student follows the same current fashion in expressing and thinking about electrodynamics or field theory, then the variety of hypotheses being generated to understand strong interactions, say, is limited. Perhaps rightly so, for possibly the chance is high that the truth lies in the fashionable direction. But, on the off-chance that it is in another direction—a direction obvious from an unfashionable view of field theory—who will find it? - Richard Feynman
+
+
+
+
+## Education   
+### University of Michigan   
+- PhD in Nuclear Engineering & Radiological Sciences, Expected 2024   
+- MSE in Nuclear Engineering & Radiological Sciences, 2022   
+- BSE in Nuclear Engineering & Radiological Sciences, 2019
+
+## Interests
+Nuclear fission; Correlations between fragments and prompt radiation; Fission fragment detectors; Machine learning; Dark matter
